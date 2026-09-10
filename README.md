@@ -2,7 +2,7 @@
 
 🌋 → 🌬️ → ✈️
 
-![BLOON VOLCANO EXPERIMENT](./krakatau_erruption.jpg)
+![BLOON VOLCANO EXPERIMENT](./krakatau_erruption.png)
 
 A minimal, deterministic, toy computational experiment that makes
 **VOLCANO → ERUPTION → ASH/SMOKE → WIND → CLOUDS → AIRCRAFT + BIRDS**
