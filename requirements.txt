@@ -1,0 +1,4 @@
+# BLOON VOLCANO EXPERIMENT v0
+# Simulation core uses ONLY the Python 3 standard library.
+# pygame is required for GUI mode only (headless mode and tests never import it).
+pygame>=2.1.0
